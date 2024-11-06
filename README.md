@@ -1,1 +1,1 @@
-# Shoppig-Cart-Using-JS
+This project is a simple Shopping Cart application built using HTML, CSS, and JavaScript. It fetches product data from an API using fetch method and dynamically displays the items for a smooth shopping experience. Users can view, add, and remove items from their cart in real-time. The layout is responsive and designed for ease of use, providing a seamless interface for online shopping.
